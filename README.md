@@ -5,7 +5,7 @@
 
 ## Your privacy is in your own hands
 
-DO you use DashactylManager? How do you know its safe... How do you know there is no backdoor... Do you trust a random bot with full access to your panel and clientarea?
+DO you use ...? How do you know its safe... How do you know there is no backdoor... Do you trust a random bot with full access to your panel and clientarea?
 
 ## Introduction
 
