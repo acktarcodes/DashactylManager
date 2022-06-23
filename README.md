@@ -1,7 +1,7 @@
-# Dashactyl-DiscordUTILS
+# DashactylManager
 
-![Version](https://img.shields.io/github/package-json/v/acktarcodes/Dashactyl-DiscordUTILS?style=flat-square)
-![License](https://img.shields.io/github/license/acktarcodes/Dashactyl-DiscordUTIL?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/acktarcodes/DashactylManager?style=flat-square)
+![License](https://img.shields.io/github/license/acktarcodes/DashactylManager?style=flat-square)
 
 ## Your privacy is in your own hands
 
