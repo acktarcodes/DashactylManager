@@ -9,6 +9,6 @@ DO you use ...? How do you know its safe... How do you know there is no backdoor
 
 ## Introduction
 
- It is a useful bot for managing your Dashactyl instance from your discord server including managing servers, viewing informations, changing package etc... The bot currently supports Dashactyl v1 and soon future versions.
+ It is a useful bot for managing your Dashactyl instance from your discord server including managing servers, viewing informations, changing package etc... The bot currently supports Dashactyl v2 and soon future versions.
 
 ### Screenshot
