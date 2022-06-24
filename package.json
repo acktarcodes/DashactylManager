@@ -1,0 +1,22 @@
+{
+    "name": "dashactylmanager",
+    "version": "1.0.0",
+    "description": "It is a useful bot for managing your Dashactyl instance from your discord server including managing servers, viewing informations, changing package etc... The bot currently supports Dashactyl v1 and soon future versions.",
+    "main": "index.js",
+    "_": "_",
+    "__": "__",
+    "author": {
+        "name": "Acktar",
+        "discord-id": "Acktar#6724",
+        "github-repo": "https://github.com/acktarcodes/DashactylManager"
+    },
+    "___": "___",
+    "____": "____",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "chalk": "^4.1.1",
+        "discord.js": "^13.8.1",
+        "js-yaml": "^4.1.0",
+        "moment": "^2.29.3"
+    }
+}
